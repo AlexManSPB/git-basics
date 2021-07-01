@@ -1,4 +1,8 @@
 h1
 {
-font-size: 26px;
+font-size: 16px;
+}
+p {
+    font-weight: bold;
+    color: red;
 }
